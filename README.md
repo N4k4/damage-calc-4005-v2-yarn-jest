@@ -40,4 +40,4 @@ console.log(dc.effectiveDamage(100, 50, 30));
 
 # CircleCI
 
-[![CircleCI](https://circleci.com/gh/N4K4/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/N4K4/damage-calc-4005-v2-yarn)
+[![CircleCI](https://circleci.com/gh/N4k4/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/N4k4/damage-calc-4005-v2-yarn)
