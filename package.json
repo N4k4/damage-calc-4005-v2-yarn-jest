@@ -10,7 +10,7 @@
   "jest": {
     "reporters": [
       "default",
-      "jest-unit"
+      "jest-junit"
     ]
   },
   "license": "ISC",
